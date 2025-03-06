@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<tittle>task2,/tittle>
+<body>
+<h1 style ="color : red;">MY TOPIC IS IOT</h1>
+<hr>
+    
+	<p style="color: orange;">INTERNENT OF THINGS .</P>
+	<p style="color: pink ;>blue;">iot is a network of devices that are connected to the internet and communicate with each. <br>just like physical world to digital word .<br>
+	IOT devices can include everyday object like light switches ,cars , and toothbrushes ,aswell as industrial tools and machinary.</p>
+	<hr>
+	
+	<p style ="color:sky blue;">WORK OF IOT.<br>iot devices are embedded with sensors, sofware ,and network connectivity.</p>
+	<p style ="color:yellow ;">EXAMOLES OF IOT.<br>(a)smart thermostats.<br>(b )smartwatches.<br>(c)IoMT etc....</p>
+	<hr>
+	<p style ="color:black;">BENEFITES OF IOT<br>(a) cost saving.<br>(b)smart cities<br> (c)remote montoring control<br>(d)environmental benefits</p>
+	<hr>
+	
+	<p smart ="color:brown;">FEATURES OF IOT <br>(a) connecting.<br>(b)automation &control.<br>(c)data collection& proccessing.etc...</p>
+	<p smart =" color:magenta;">DISADVANTAGES OF IOT<br>(a)security risks.<br> (b)privacy concens.<br>(c) environmental impact.<br>(d)eithical concernes &job losses etc...</p>
+
+	
+</body>
+</head>
+</html>
